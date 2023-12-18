@@ -1,0 +1,7 @@
+Trail opening web cam using opencv
+Collect the images for the total of five gestures
+Labelling the images
+Updating the labelling images
+Train
+Update checkpoint 
+Detect the gesture 
