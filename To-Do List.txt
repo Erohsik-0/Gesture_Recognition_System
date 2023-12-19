@@ -1,5 +1,6 @@
-Trail opening web cam using opencv
-Collect the images for the total of five gestures
+Trail opening web cam using opencv - Done
+Trail collecting the images to train - Done
+Collect the images for the total of five gestures - Done
 Labelling the images
 Updating the labelling images
 Train
