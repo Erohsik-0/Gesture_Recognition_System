@@ -7,7 +7,7 @@ import uuid
 imgpath = r"C:\KISHORE\Sde_Projects\Using Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_Images"
 
 #Naming the gestures
-labels = ["hello" , "thanks" , "yes" , "no" , "iloveyou"]
+labels = ["hello" , "thanks" , "yes" , "no" , "iloveyou" , "LiveLong"]
 numberofimages = 15
 
 #Collecting the images for taining and testing
@@ -29,7 +29,7 @@ for label in labels:
         imgname = os.path.join(imgpath , label , label+'.'+'{}.jpg'.format(str(uuid.uuid1())))
         cv2.imwrite(imgname , frame)
         cv2.imshow('frame' , frame)
-        time.sleep(2)
+        time.sleep(5)
         #Setting the exit value as 'q'
         if cv2.waitKey(1) and 0xFF == ord('q'):
             break

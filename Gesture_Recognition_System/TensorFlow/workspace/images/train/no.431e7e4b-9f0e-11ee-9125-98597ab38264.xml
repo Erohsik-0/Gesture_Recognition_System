@@ -1,0 +1,26 @@
+<annotation>
+	<folder>no</folder>
+	<filename>no.431e7e4b-9f0e-11ee-9125-98597ab38264.jpg</filename>
+	<path>C:\KISHORE\Sde_Projects\Using Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_Images\no\no.431e7e4b-9f0e-11ee-9125-98597ab38264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>307</ymin>
+			<xmax>303</xmax>
+			<ymax>477</ymax>
+		</bndbox>
+	</object>
+</annotation>

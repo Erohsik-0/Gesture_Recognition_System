@@ -1,0 +1,26 @@
+<annotation>
+	<folder>LiveLong</folder>
+	<filename>LiveLong.8353f1cf-9f0e-11ee-9960-98597ab38264.jpg</filename>
+	<path>C:\KISHORE\Sde_Projects\Using Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_Images\LiveLong\LiveLong.8353f1cf-9f0e-11ee-9960-98597ab38264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Live Long</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>222</xmin>
+			<ymin>284</ymin>
+			<xmax>427</xmax>
+			<ymax>480</ymax>
+		</bndbox>
+	</object>
+</annotation>

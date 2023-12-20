@@ -1,0 +1,26 @@
+<annotation>
+	<folder>hello</folder>
+	<filename>hello.907d4b8b-9f0d-11ee-ba97-98597ab38264.jpg</filename>
+	<path>C:\KISHORE\Sde_Projects\Using Tensorflow\RealTimeObjectDetection\Tensorflow\workspace\images\Collected_Images\hello\hello.907d4b8b-9f0d-11ee-ba97-98597ab38264.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>183</ymin>
+			<xmax>594</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>
